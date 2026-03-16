@@ -1,4 +1,4 @@
-baseURL = 'https://ashaa.netlify.app'
+baseURL = "http://ashamusic.creatme.digital"
 languageCode = 'en-us'
 title = 'Ashaa - Digital Artist'
 theme = 'minimal'
