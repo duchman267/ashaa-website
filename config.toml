@@ -1,0 +1,31 @@
+baseURL = 'https://ashaa.netlify.app'
+languageCode = 'en-us'
+title = 'Ashaa - Digital Artist'
+theme = 'minimal'
+
+[params]
+  author = 'Ashaa'
+  description = 'Digital singer & songwriter'
+  github = 'https://github.com/duchman267'
+  spotify = 'https://open.spotify.com'
+  threads = 'https://threads.net'
+  
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 10
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 20
+
+[[menu.main]]
+  name = 'Music'
+  url = '/music/'
+  weight = 30
+
+[[menu.main]]
+  name = 'Contact'
+  url = '/contact/'
+  weight = 40
